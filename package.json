@@ -18,6 +18,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "cypress": "^12.17.2"
+    "cypress": "^12.17.2",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.1.4"
   }
 }
